@@ -18,3 +18,6 @@ try:
             print(command)
 except: 
     pass
+
+
+##altera~ção feita por mim
